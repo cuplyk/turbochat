@@ -11,6 +11,8 @@ gem "jsbundling-rails"
 gem "turbo-rails"
 gem "stimulus-rails"
 gem "cssbundling-rails"
+gem "devise", "~> 4.8"
+gem "tailwindcss-rails", "~> 2.0"
 
 
 group :development, :test do
@@ -19,6 +21,3 @@ end
 
 
 
-gem "devise", "~> 4.8"
-
-gem "tailwindcss-rails", "~> 2.0"
