@@ -1,1 +1,2 @@
 rails tailwindcss:build - for rebilding my css
+rails g devise:views -v sessions %>/new - for creating new views for devise
